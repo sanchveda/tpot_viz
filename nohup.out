@@ -1,0 +1,39 @@
+[I 14:14:54.262 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:14:54.262 NotebookApp] The port 8890 is already in use, trying another port.
+[I 14:14:54.264 NotebookApp] Serving notebooks from local directory: /home/sas479/tpot/construct_analysis/dialog
+[I 14:14:54.264 NotebookApp] Jupyter Notebook 6.1.3 is running at:
+[I 14:14:54.264 NotebookApp] http://localhost:8891/?token=d12a8da6467510b49fe2af6ca3526b05079ad2f3e648e9d2
+[I 14:14:54.264 NotebookApp]  or http://127.0.0.1:8891/?token=d12a8da6467510b49fe2af6ca3526b05079ad2f3e648e9d2
+[I 14:14:54.264 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:14:54.267 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sas479/.local/share/jupyter/runtime/nbserver-30209-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=d12a8da6467510b49fe2af6ca3526b05079ad2f3e648e9d2
+     or http://127.0.0.1:8891/?token=d12a8da6467510b49fe2af6ca3526b05079ad2f3e648e9d2
+[I 14:15:08.415 NotebookApp] Interrupted...
+[I 14:15:08.416 NotebookApp] Shutting down 0 kernels
+[I 14:15:08.418 NotebookApp] Shutting down 0 terminals
+[I 14:17:57.278 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:17:57.278 NotebookApp] The port 8890 is already in use, trying another port.
+[I 14:17:57.280 NotebookApp] The port 8891 is already in use, trying another port.
+[I 14:17:57.282 NotebookApp] Serving notebooks from local directory: /home/sas479/tpot/construct_analysis/dialog
+[I 14:17:57.282 NotebookApp] Jupyter Notebook 6.1.3 is running at:
+[I 14:17:57.282 NotebookApp] http://localhost:8892/?token=a8ebcd22498c45fac0f48881737d99bf084cccec8c332693
+[I 14:17:57.282 NotebookApp]  or http://127.0.0.1:8892/?token=a8ebcd22498c45fac0f48881737d99bf084cccec8c332693
+[I 14:17:57.282 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:17:57.284 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sas479/.local/share/jupyter/runtime/nbserver-30285-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8892/?token=a8ebcd22498c45fac0f48881737d99bf084cccec8c332693
+     or http://127.0.0.1:8892/?token=a8ebcd22498c45fac0f48881737d99bf084cccec8c332693
+[I 14:18:29.160 NotebookApp] Interrupted...
+[I 14:18:29.161 NotebookApp] Shutting down 0 kernels
+[I 14:18:29.163 NotebookApp] Shutting down 0 terminals
+Warning: Permanently added '136.142.205.177' (ECDSA) to the list of known hosts.
+Ubuntu 16.04.6 LTS psych-1133 ssh-pty
+
+bash: jupyter: command not found
